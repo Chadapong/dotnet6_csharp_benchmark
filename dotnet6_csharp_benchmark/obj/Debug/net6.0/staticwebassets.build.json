@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7kBD1zVVBCMqRI80BCdksY5+SxbV6Bgc+Z/5DdlTqjw=",
+  "Source": "dotnet6_csharp_benchmark",
+  "BasePath": "_content/dotnet6_csharp_benchmark",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
